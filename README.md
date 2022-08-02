@@ -1,1 +1,1 @@
-A complete solution for E-commerce Business with exclusive features & super responsive layout
+A complete solution for Quotation Managementst, Inventory Mangemetnst and POS sale mangement  with exclusive features & super responsive layout
